@@ -104,4 +104,9 @@ okuhlevellem@capitecbank.co.za
 **R**esult: Developed strong interpersonal skills for workplace success
 
 
+## 📬 Contact
+- **Email:** vellemokuhle@gmail.com
+- **LinkedIn:** linkedin.com/in/okuhlevellem  
+- **GitHub:** github.com/OkuhleV
+
 
