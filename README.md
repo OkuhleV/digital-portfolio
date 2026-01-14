@@ -70,9 +70,10 @@ okuhlevellem@capitecbank.co.za
 
 
 ### 3. **Mock Interview**
-**Evidence:**  
-[Interview Feedback  
-](https://github.com/OkuhleV/interview-feedback)
+**The positive feedback from my interview**
+**[Interview Feedback  
+](https://github.com/OkuhleV/interview-feedback)**  
+
 **Reflection (STAR):**  
 **S**ituation: Participated in a simulated interview session.  
 **T**ask: Demonstrate readiness for real-world interviews.  
@@ -81,9 +82,10 @@ okuhlevellem@capitecbank.co.za
 
 
 ### 4. **Professional Networking**
-**Evidence:**  
-[LinkedIn Profile Screenshot  
-](https://github.com/OkuhleV/linkedIn-profile-screenshot)
+
+**[LinkedIn Profile Screenshot  
+](https://github.com/OkuhleV/linkedIn-profile-screenshot)**  
+
 **Reflection (STAR):**  
 **S**ituation: Needed to build a professional network.  
 **T**ask: Connect with industry professionals and peers.  
@@ -92,8 +94,8 @@ okuhlevellem@capitecbank.co.za
 
 
 ### 5. **Workplace Etiquette**
-**Evidence:**  
-- Workplace Etiquette Notes  
+**[Workplace Etiquette
+](https://github.com/OkuhleV/workplace-etiquette)**  
 
 **Reflection (STAR):**  
 **S**ituation: Learned about professional behavior in corporate environments.  
