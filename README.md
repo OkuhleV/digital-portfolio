@@ -41,7 +41,7 @@ Completed a skills inventory and personal interest reflection. Key skills includ
 
 
 
-### 1. **Business Communication**
+### 1. **Evidence of placement in industry**
 ## My professional email
 okuhlevellem@capitecbank.co.za
 ## An image of courses I have completed at Capitec Bank
@@ -69,7 +69,7 @@ okuhlevellem@capitecbank.co.za
 
 
 
-### 3. **Mock Interview**
+### 3. **Interview**
 **The positive feedback from my interview**
 **[Interview Feedback  
 ](https://github.com/OkuhleV/interview-feedback)**  
