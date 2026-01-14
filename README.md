@@ -56,12 +56,27 @@ okuhlevellem@capitecbank.co.za
 
 
 ### 2. **Interview Skills**
-**Evidence:**  
-- Interview Preparation Notes  
+**Interview questions that I used to practice for my interview:**  
+[Interview common question
+](https://github.com/OkuhleV/interview-common-questions)
+
 
 **Reflection (STAR):**  
 **S**ituation: Preparing for technical interviews during training.  
 **T**ask: Learn common questions and practice responses.  
 **A**ction: Attended workshops, practiced mock questions, and refined answers.  
 **R**esult: Gained confidence and improved articulation.
+
+
+
+### 3. **Mock Interview**
+**Evidence:**  
+- Mock Interview Feedback  
+
+**Reflection (STAR):**  
+**S**ituation: Participated in a simulated interview session.  
+**T**ask: Demonstrate readiness for real-world interviews.  
+**A**ction: Answered technical and behavioral questions using STAR technique.  
+**R**esult: Received positive feedback and identified areas for improvement
+
 
