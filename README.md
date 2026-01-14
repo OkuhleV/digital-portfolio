@@ -71,12 +71,24 @@ okuhlevellem@capitecbank.co.za
 
 ### 3. **Mock Interview**
 **Evidence:**  
-- Mock Interview Feedback  
-
+[Interview Feedback  
+](https://github.com/OkuhleV/interview-feedback)
 **Reflection (STAR):**  
 **S**ituation: Participated in a simulated interview session.  
 **T**ask: Demonstrate readiness for real-world interviews.  
 **A**ction: Answered technical and behavioral questions using STAR technique.  
 **R**esult: Received positive feedback and identified areas for improvement
+
+
+### 4. **Professional Networking**
+**Evidence:**  
+- LinkedIn Profile Screenshot  
+
+**Reflection (STAR):**  
+**S**ituation: Needed to build a professional network.  
+**T**ask: Connect with industry professionals and peers.  
+**A**ction: Created LinkedIn profile, joined tech communities, and engaged in discussions.  
+**R**esult: Expanded network and gained insights into industry trends.
+
 
 
