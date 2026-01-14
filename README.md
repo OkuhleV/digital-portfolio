@@ -82,13 +82,24 @@ okuhlevellem@capitecbank.co.za
 
 ### 4. **Professional Networking**
 **Evidence:**  
-- LinkedIn Profile Screenshot  
-
+[LinkedIn Profile Screenshot  
+](https://github.com/OkuhleV/linkedIn-profile-screenshot)
 **Reflection (STAR):**  
 **S**ituation: Needed to build a professional network.  
 **T**ask: Connect with industry professionals and peers.  
 **A**ction: Created LinkedIn profile, joined tech communities, and engaged in discussions.  
 **R**esult: Expanded network and gained insights into industry trends.
+
+
+### 5. **Workplace Etiquette**
+**Evidence:**  
+- Workplace Etiquette Notes  
+
+**Reflection (STAR):**  
+**S**ituation: Learned about professional behavior in corporate environments.  
+**T**ask: Apply etiquette in communication and collaboration.  
+**A**ction: Practiced punctuality, respectful communication, and teamwork.  
+**R**esult: Developed strong interpersonal skills for workplace success
 
 
 
