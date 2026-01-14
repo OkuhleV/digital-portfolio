@@ -48,7 +48,7 @@ okuhlevellem@capitecbank.co.za
 [Employee engament form](https://github.com/OkuhleV/employee-engagement-form)
 
 ## An image of courses I have completed at Capitec Bank
-**[Courses I completed while an employee at Capitec]**(https://github.com/OkuhleV/course-completed)
+[Courses I completed while an employee at Capitec](https://github.com/OkuhleV/course-completed)
 
 
 **Reflection (STAR):**  
@@ -73,9 +73,7 @@ okuhlevellem@capitecbank.co.za
 
 ### 3. **Interview**
 **The positive feedback from my interview**
-**[Interview Feedback  
-]**(https://github.com/OkuhleV/interview-feedback)
-**[Employee engagement form]**
+[Interview Feedback  ](https://github.com/OkuhleV/interview-feedback)
 
 **Reflection (STAR):**  
 **S**ituation: Participated in a simulated interview session.  
