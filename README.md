@@ -45,7 +45,7 @@ Completed a skills inventory and personal interest reflection. Key skills includ
 ## My professional email
 okuhlevellem@capitecbank.co.za
 
-**[Employee engament form]**(https://github.com/OkuhleV/employee-engagement-form)
+[Employee engament form](https://github.com/OkuhleV/employee-engagement-form)
 
 ## An image of courses I have completed at Capitec Bank
 **[Courses I completed while an employee at Capitec]**(https://github.com/OkuhleV/course-completed)
@@ -60,8 +60,7 @@ okuhlevellem@capitecbank.co.za
 
 ### 2. **Interview Skills**
 **Interview questions that I used to practice for my interview:**  
-[Interview common question
-](https://github.com/OkuhleV/interview-common-questions)
+[Interview common question](https://github.com/OkuhleV/interview-common-questions)
 
 
 **Reflection (STAR):**  
@@ -75,7 +74,7 @@ okuhlevellem@capitecbank.co.za
 ### 3. **Interview**
 **The positive feedback from my interview**
 **[Interview Feedback  
-](https://github.com/OkuhleV/interview-feedback)**
+]**(https://github.com/OkuhleV/interview-feedback)
 **[Employee engagement form]**
 
 **Reflection (STAR):**  
@@ -87,8 +86,7 @@ okuhlevellem@capitecbank.co.za
 
 ### 4. **Professional Networking**
 
-**[LinkedIn Profile Screenshot  
-](https://github.com/OkuhleV/linkedIn-profile-screenshot)**  
+[LinkedIn Profile Screenshot  ](https://github.com/OkuhleV/linkedIn-profile-screenshot)
 
 **Reflection (STAR):**  
 **S**ituation: Needed to build a professional network.  
@@ -98,8 +96,7 @@ okuhlevellem@capitecbank.co.za
 
 
 ### 5. **Workplace Etiquette**
-**[Workplace Etiquette
-](https://github.com/OkuhleV/workplace-etiquette)**  
+[Workplace Etiquette](https://github.com/OkuhleV/workplace-etiquette)
 
 **Reflection (STAR):**  
 **S**ituation: Learned about professional behavior in corporate environments.  
