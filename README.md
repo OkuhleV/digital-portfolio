@@ -44,8 +44,11 @@ Completed a skills inventory and personal interest reflection. Key skills includ
 ### 1. **Evidence of placement in industry**
 ## My professional email
 okuhlevellem@capitecbank.co.za
+
+**[Employee engament form]**(https://github.com/OkuhleV/employee-engagement-form)
+
 ## An image of courses I have completed at Capitec Bank
-[Courses I completed while an employee at Capitec](https://github.com/OkuhleV/course-completed)
+**[Courses I completed while an employee at Capitec]**(https://github.com/OkuhleV/course-completed)
 
 
 **Reflection (STAR):**  
@@ -72,7 +75,8 @@ okuhlevellem@capitecbank.co.za
 ### 3. **Interview**
 **The positive feedback from my interview**
 **[Interview Feedback  
-](https://github.com/OkuhleV/interview-feedback)**  
+](https://github.com/OkuhleV/interview-feedback)**
+**[Employee engagement form]**
 
 **Reflection (STAR):**  
 **S**ituation: Participated in a simulated interview session.  
