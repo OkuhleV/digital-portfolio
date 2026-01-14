@@ -37,3 +37,31 @@ Completed a skills inventory and personal interest reflection. Key skills includ
 **T**ask: Identify my core strengths to target job roles accordingly.  
 **A**ction: Used past projects (like ITGlowMobile) and feedback from mentors to assess technical proficiency and soft skills.  
 **R**esult: Confirmed I am best suited for full-stack or mobile app developer roles, especially in customer-centric applications.
+
+
+
+
+### 1. **Business Communication**
+## My professional email
+okuhlevellem@capitecbank.co.za
+## An image of courses I have completed at Capitec Bank
+[Courses I completed while an employee at Capitec](https://github.com/OkuhleV/course-completed)
+
+
+**Reflection (STAR):**  
+**S**ituation: Required to communicate project updates professionally.  
+**T**ask: Draft clear, concise emails and present progress reports.  
+**A**ction: Used formal tone, structured reports, and visual aids in presentations.  
+**R**esult: Improved clarity and professionalism in communication.
+
+
+### 2. **Interview Skills**
+**Evidence:**  
+- Interview Preparation Notes  
+
+**Reflection (STAR):**  
+**S**ituation: Preparing for technical interviews during training.  
+**T**ask: Learn common questions and practice responses.  
+**A**ction: Attended workshops, practiced mock questions, and refined answers.  
+**R**esult: Gained confidence and improved articulation.
+
