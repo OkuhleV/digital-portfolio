@@ -2,12 +2,12 @@
 
 ## 🔗 My Java Project Repositories
 
-- [💇 ITGlowDesktop - Java Sring Boot Back End](https://github.com/your-username/ITGlowMobile-FrontEnd)
+- [💇 ITGlowDesktop - Java Sring Boot Back End](https://github.com/your-OkuhleV/ITGlowMobile-FrontEnd)
 - [🧠 ITGlowMobile - Java Spring Boot Back End](https://github.com/OkuhleV/Group22ITGlowMobileApp.git)
-- [🌐 Full Portfolio on GitHub](https://github.com/your-username/e-portfolio)
+- [🌐 Full Portfolio on GitHub](https://github.com/OkuhleV/e-portfolio)
 
 ## My certifications
-- [Higher Certificate: ICT](https://github.com/your-username/e-portfolio)
+- [Higher Certificate: ICT](https://github.com/OkuhleV/e-portfolio)
 - [CISCO Networking Academy: Entrepreneurship](https://github.com/OkuhleV/EntrepreneurshipCert.git)
 
   ## 📌 Career Counselling
