@@ -2,9 +2,9 @@
 
 ## 🔗 My Java Project Repositories
 
-- [💇 ITGlowDesktop - Java Sring Boot Back End](https://github.com/your-OkuhleV/ITGlowMobile-FrontEnd)
+- [💇 ITGlowDesktop - Java Sring Boot Back End](https://github.com/OkuhleV/ITGlowMobile-FrontEnd.git)
 - [🧠 ITGlowMobile - Java Spring Boot Back End](https://github.com/OkuhleV/Group22ITGlowMobileApp.git)
-- [🌐 Full Portfolio on GitHub](https://github.com/OkuhleV/e-portfolio)
+- [🌐 Full Portfolio on GitHub](https://github.com/OkuhleV/e-portfolio.git)
 
 ## My certifications
 - [Higher Certificate: ICT](https://github.com/OkuhleV/e-portfolio)
